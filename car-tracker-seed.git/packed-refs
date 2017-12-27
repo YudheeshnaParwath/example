@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+266a95e7911e3b60f14a7ffbbec58f8207cc7570 refs/heads/master
+266a95e7911e3b60f14a7ffbbec58f8207cc7570 refs/heads/module-api
+266a95e7911e3b60f14a7ffbbec58f8207cc7570 refs/heads/module-client
